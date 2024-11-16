@@ -26,7 +26,7 @@
     "react-native-reanimated": "~2.2.0",
     "react-native-svg": "12.1.1",
     "react-native-toast-message": "^1.6.0",
-    "react-native-web": "~0.13.12",
+    "react-native-web": "~0.19.13",
     "socket.io-client": "^4.3.2",
     "styled-components": "^5.3.3"
   },

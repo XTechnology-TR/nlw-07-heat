@@ -27,7 +27,7 @@
     "react-native-svg": "12.1.1",
     "react-native-toast-message": "^1.6.0",
     "react-native-web": "~0.13.12",
-    "socket.io-client": "^4.3.2",
+    "socket.io-client": "^4.5.0",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
